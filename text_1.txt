@@ -12,9 +12,12 @@ even more code
 feature2 test
 more code feature2
 
-=======
 third branch -->>3
 more code
 also more code 
 new line other
->>>>>>> 50d03e4f2193c7fdd2d484a783aa7cb97901004f
+=======
+
+working on new branch
+another commit on new branch
+>>>>>>> newbranch
