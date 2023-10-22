@@ -1,3 +1,9 @@
 first test -->> 1
 lol second --->> 2
+<<<<<<< HEAD
 third branch --->3
+=======
+third branch -->>3
+more code
+also more code 
+>>>>>>> 57c4afd907b1d7562d494874a1e250c558eebf8b
